@@ -1,0 +1,50 @@
+[
+  {
+    "id": "burs003",
+    "baslik": "Sanat Bursu",
+    "aciklama": "Sanatsal yetenekleri olan öğrencilere verilen burs.",
+    "miktar": 1200.0,
+    "sponsorAdi": "esrablts_",
+    "deadline": "2025-05-23"
+  },
+  {
+    "id": "burs004",
+    "baslik": "Teknoloji Bursu",
+    "aciklama": "STEM alanlarında başarılı öğrencilere destek.",
+    "miktar": 2000.0,
+    "sponsorAdi": "esrablts_",
+    "deadline": "2025-05-19"
+  },
+  {
+    "id": "burs005",
+    "baslik": "Çevre Bursu",
+    "aciklama": "Çevre projelerinde yer alan öğrencilere verilen destek.",
+    "miktar": 1100.0,
+    "sponsorAdi": "esrablts_",
+    "deadline": "2025-07-30"
+  },
+  {
+    "id": "burs006",
+    "baslik": "Kodlama Bursu",
+    "aciklama": "Yazılım projelerine katkı sağlayan öğrencilere destek.",
+    "miktar": 1500.0,
+    "sponsorAdi": "esrablts_",
+    "deadline": "2025-06-30"
+  },
+  {
+    "id": "burs007",
+    "baslik": "Müzik Bursu",
+    "aciklama": "Enstrüman veya vokal yeteneği gösteren öğrencilere burs.",
+    "miktar": 1300.0,
+    "sponsorAdi": "esrablts_",
+    "deadline": "2025-07-20"
+  },
+  {
+    "id": "burs008",
+    "baslik": "Bilimsel Araştırma Bursu",
+    "aciklama": "Üniversite proje ve makale çalışmalarına destek.",
+    "miktar": 2500.0,
+    "sponsorAdi": "esrablts_",
+    "deadline": "2025-08-15"
+  }
+]

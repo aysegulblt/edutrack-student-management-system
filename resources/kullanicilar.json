@@ -1,0 +1,130 @@
+[
+  {
+    "ad": "Ayşegül",
+    "soyad": "Bulut",
+    "kullaniciAdi": "aysegulblt",
+    "parola": "Ab1234,,",
+    "rol": "Okul Yetkilisi",
+    "oncekiParolalar": [
+      "Ab1234..",
+      "Ab1234.,"
+    ]
+  },
+  {
+    "ad": "Esranur",
+    "soyad": "Bulut",
+    "kullaniciAdi": "esrablts_",
+    "parola": "Eb5334,,",
+    "rol": "Sponsor",
+    "oncekiParolalar": [
+      "Eb5334.,"
+    ]
+  },
+  {
+    "ad": "Nisanur",
+    "soyad": "Bulut",
+    "kullaniciAdi": "nisabulut",
+    "parola": "Nb1234..",
+    "rol": "Etkinlik Sorumlusu",
+    "oncekiParolalar": [
+      "Nb1234,,",
+      "Nb1234.,"
+    ]
+  },
+  {
+    "ad": "Sahranur",
+    "soyad": "Bulut",
+    "kullaniciAdi": "sahrablt",
+    "parola": "Sb1234,,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": [
+      "Sb1234..",
+      "Sb1234.,",
+      "Sb5334--"
+    ]
+  },
+  {
+    "ad": "Adil",
+    "soyad": "Efe",
+    "kullaniciAdi": "adilefe",
+    "parola": "Adil123.,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "Aziz",
+    "soyad": "Bulut",
+    "kullaniciAdi": "azizblt",
+    "parola": "Ab1234.,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "Zeynep",
+    "soyad": "Sancar",
+    "kullaniciAdi": "zynpsncr",
+    "parola": "Zs1234.,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "Azra",
+    "soyad": "Genç",
+    "kullaniciAdi": "azragenc",
+    "parola": "Ag1234,,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": [
+      "Ag1234.,"
+    ]
+  },
+  {
+    "ad": "Nehir",
+    "soyad": "Aslan",
+    "kullaniciAdi": "nehiraslan",
+    "parola": "Na1234.,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "a",
+    "soyad": "a",
+    "kullaniciAdi": "a",
+    "parola": "Aa.123456",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "d",
+    "soyad": "d",
+    "kullaniciAdi": "d",
+    "parola": "dD.159951",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "Adil",
+    "soyad": "Efe",
+    "kullaniciAdi": "aidy",
+    "parola": "Adil.123456",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  },
+  {
+    "ad": "Naz",
+    "soyad": "Alpsoy",
+    "kullaniciAdi": "nazalpsoy",
+    "parola": "Na1234,,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": [
+      "Na1234.,"
+    ]
+  },
+  {
+    "ad": "Aslı",
+    "soyad": "Güven",
+    "kullaniciAdi": "aslıgüven",
+    "parola": "Ag1234.,",
+    "rol": "Öğrenci",
+    "oncekiParolalar": []
+  }
+]

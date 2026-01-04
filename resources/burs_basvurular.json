@@ -1,0 +1,37 @@
+[
+  {
+    "kullaniciAdi": "sahrablt",
+    "bursId": "burs005",
+    "durum": "Onaylandı",
+    "gerekce": "Katılmak istiyorum.",
+    "sponsorYorum": "Tebrikler kazandınız."
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "bursId": "burs004",
+    "durum": "Reddedildi",
+    "gerekce": "üzgünüz.",
+    "sponsorYorum": "üzgünüz."
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "bursId": "burs003",
+    "durum": "Onaylandı",
+    "gerekce": "Katılmak istiyorum",
+    "sponsorYorum": "jkhkjhkhk"
+  },
+  {
+    "kullaniciAdi": "a",
+    "bursId": "burs005",
+    "durum": "Beklemede",
+    "gerekce": "ajım",
+    "sponsorYorum": ""
+  },
+  {
+    "kullaniciAdi": "nazalpsoy",
+    "bursId": "burs005",
+    "durum": "Beklemede",
+    "gerekce": "ihtiyacım var.",
+    "sponsorYorum": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "teslimTarihi": "2025-05-15",
+    "olusturan": "aysegulblt",
+    "id": "proj001",
+    "baslik": "Akıllı Sınıf Otomasyonu",
+    "aciklama": "Öğrencilerin sınıf içi etkinliklerini takip eden bir sistem."
+  },
+  {
+    "teslimTarihi": "2025-05-25",
+    "olusturan": "aysegulblt",
+    "id": "proj002",
+    "baslik": "Geri Dönüşüm Oyunu",
+    "aciklama": "Çocuklara geri dönüşümü oyun yoluyla öğreten mobil uygulama."
+  },
+  {
+    "teslimTarihi": "2025-06-30",
+    "olusturan": "aysegulblt",
+    "id": "proj003",
+    "baslik": "Sağlık Takip Uygulaması",
+    "aciklama": "Kullanıcıların adım sayısını ve kalp atış hızını izleyen bir mobil uygulama."
+  },
+  {
+    "teslimTarihi": "2025-08-10",
+    "olusturan": "aysegulblt",
+    "id": "proj004",
+    "baslik": "Online Kitap Kulübü",
+    "aciklama": "Üyelerin kitap önerip tartıştığı web platformu."
+  },
+  {
+    "teslimTarihi": "2025-09-05",
+    "olusturan": "aysegulblt",
+    "id": "proj005",
+    "baslik": "Yapay Zeka Destekli Sınav Değerlendirme",
+    "aciklama": "Öğrenci cevaplarını otomatik olarak değerlendiren bir sistem."
+  },
+  {
+    "teslimTarihi": "2025-06-20",
+    "olusturan": "aysegulblt",
+    "id": "proj006",
+    "baslik": "Sanal Gerçeklik Dersleri",
+    "aciklama": "Öğrenciler için VR destekli etkileşimli ders platformu."
+  },
+  {
+    "teslimTarihi": "2025-07-15",
+    "olusturan": "aysegulblt",
+    "id": "proj007",
+    "baslik": "Akıllı Bahçe Sistemi",
+    "aciklama": "Toprak nemini ve ışık miktarını otomatik ayarlayan IoT tabanlı bahçe."
+  },
+  {
+    "teslimTarihi": "2025-08-01",
+    "olusturan": "aysegulblt",
+    "id": "proj008",
+    "baslik": "Dil Öğrenme Botu",
+    "aciklama": "Konuşma tanıma ile interaktif dil pratitiği yapan chatbot."
+  }
+]

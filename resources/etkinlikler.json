@@ -1,0 +1,58 @@
+[
+  {
+    "id": "etk001",
+    "baslik": "Doğa Yürüyüşü",
+    "aciklama": "Yakındaki ormanda rehber eşliğinde yürüyüş.",
+    "tarih": "2025-05-06",
+    "kontenjan": 0,
+    "olusturan": "nisabulut"
+  },
+  {
+    "id": "etk002",
+    "baslik": "Kodlama Atölyesi",
+    "aciklama": "Temel Python kodlama atölyesi.",
+    "tarih": "2025-05-23",
+    "kontenjan": 0,
+    "olusturan": "nisabulut"
+  },
+  {
+    "id": "etk003",
+    "baslik": "Girişimcilik Semineri",
+    "aciklama": "Başarılı girişimcilerle kariyer sohbeti.",
+    "tarih": "2025-07-01",
+    "kontenjan": 0,
+    "olusturan": "nisabulut"
+  },
+  {
+    "id": "etk005",
+    "baslik": "Film Gösterimi",
+    "aciklama": "Öğrenci yapımı kısa filmlerin gösterimi.",
+    "tarih": "2025-07-10",
+    "kontenjan": 0,
+    "olusturan": "nisabulut"
+  },
+  {
+    "id": "etk006",
+    "baslik": "Matematik Yarışması",
+    "aciklama": "Takım halinde yapılan hızlı çözüm yarışması.",
+    "tarih": "2025-06-22",
+    "kontenjan": 30,
+    "olusturan": "nisabulut"
+  },
+  {
+    "id": "etk007",
+    "baslik": "Resim Atölyesi",
+    "aciklama": "Suluboya ve karakalem teknikleri eğitimi.",
+    "tarih": "2025-07-05",
+    "kontenjan": 20,
+    "olusturan": "nisabulut"
+  },
+  {
+    "id": "etk008",
+    "baslik": "Fotoğraf Gezisi",
+    "aciklama": "Şehirde mimari dokuyu fotoğraflama turu.",
+    "tarih": "2025-08-12",
+    "kontenjan": 15,
+    "olusturan": "nisabulut"
+  }
+]

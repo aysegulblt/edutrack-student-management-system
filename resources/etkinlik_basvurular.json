@@ -1,0 +1,65 @@
+[
+  {
+    "kullaniciAdi": "sahrablt",
+    "etkinlikId": "etk002",
+    "durum": "Onaylandı",
+    "ogrenciGerekce": "",
+    "comments": "İyi eğlenceler :)"
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "etkinlikId": "etk006",
+    "durum": "Reddedildi",
+    "ogrenciGerekce": "",
+    "comments": "Başka projelerde görüşmek üzere"
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "etkinlikId": "etk003",
+    "durum": "Onaylandı",
+    "ogrenciGerekce": "",
+    "comments": ""
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "etkinlikId": "etk007",
+    "durum": "Reddedildi",
+    "ogrenciGerekce": "",
+    "comments": ""
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "etkinlikId": "etk008",
+    "durum": "Beklemede",
+    "ogrenciGerekce": "",
+    "comments": ""
+  },
+  {
+    "kullaniciAdi": "sahrablt",
+    "etkinlikId": "etk005",
+    "durum": "Beklemede",
+    "ogrenciGerekce": "",
+    "comments": ""
+  },
+  {
+    "kullaniciAdi": "a",
+    "etkinlikId": "etk002",
+    "durum": "Beklemede",
+    "ogrenciGerekce": "",
+    "comments": ""
+  },
+  {
+    "kullaniciAdi": "nazalpsoy",
+    "etkinlikId": "etk002",
+    "durum": "Beklemede",
+    "ogrenciGerekce": "",
+    "comments": ""
+  },
+  {
+    "kullaniciAdi": "nazalpsoy",
+    "etkinlikId": "etk006",
+    "durum": "Beklemede",
+    "ogrenciGerekce": "",
+    "comments": ""
+  }
+]
